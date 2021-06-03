@@ -1,0 +1,10 @@
+C:\Users\Grigori\source\repos\crud_zapros\crud_zapros\bin\Debug\crud_zapros.exe.config
+C:\Users\Grigori\source\repos\crud_zapros\crud_zapros\bin\Debug\crud_zapros.exe
+C:\Users\Grigori\source\repos\crud_zapros\crud_zapros\bin\Debug\crud_zapros.pdb
+C:\Users\Grigori\source\repos\crud_zapros\crud_zapros\obj\Debug\crud_zapros.csprojAssemblyReference.cache
+C:\Users\Grigori\source\repos\crud_zapros\crud_zapros\obj\Debug\crud_zapros.Form1.resources
+C:\Users\Grigori\source\repos\crud_zapros\crud_zapros\obj\Debug\crud_zapros.Properties.Resources.resources
+C:\Users\Grigori\source\repos\crud_zapros\crud_zapros\obj\Debug\crud_zapros.csproj.GenerateResource.cache
+C:\Users\Grigori\source\repos\crud_zapros\crud_zapros\obj\Debug\crud_zapros.csproj.CoreCompileInputs.cache
+C:\Users\Grigori\source\repos\crud_zapros\crud_zapros\obj\Debug\crud_zapros.exe
+C:\Users\Grigori\source\repos\crud_zapros\crud_zapros\obj\Debug\crud_zapros.pdb
